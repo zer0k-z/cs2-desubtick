@@ -1,0 +1,1 @@
+Badly made in 30 minutes as a response to 2023/10/17 CS2 update, desubticks the 4 movement keys and the jump button.
